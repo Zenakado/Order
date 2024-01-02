@@ -15,3 +15,5 @@
 [Anime1](https://anime1.me/)
 
 ![ShakeHeadBird](image/1696582367024.gif)
+
+[studentUi](gjschool/src/studentUI.java)
