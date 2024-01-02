@@ -18,4 +18,4 @@
 
 [studentUI](gjschool/src/studentUI.java)
 
-[123](gjschool/src/123.txt)
+[123](gjschool/123.txt)
